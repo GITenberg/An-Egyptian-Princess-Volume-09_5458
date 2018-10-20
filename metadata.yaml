@@ -1,5 +1,5 @@
 _repo: An-Egyptian-Princess-Volume-09_5458
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Grove, Eleanor
@@ -33,5 +33,6 @@ subjects:
 - !lcsh 'German fiction -- Translations into English'
 - !lcc 'PT'
 - !lcsh 'Egypt -- History -- To 332 B.C. -- Fiction'
+- GITenberg
 title: An Egyptian Princess — Volume 09
 url: http://www.gutenberg.org/ebooks/5458
